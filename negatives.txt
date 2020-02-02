@@ -1,0 +1,8 @@
+./negative_images/IMG_0417.jpg
+./negative_images/IMG_0418.jpg
+./negative_images/IMG_0419.jpg
+./negative_images/IMG_0420.jpg
+./negative_images/IMG_0421.jpg
+./negative_images/IMG_0422.jpg
+./negative_images/IMG_0423.jpg
+./negative_images/IMG_0424.jpg
